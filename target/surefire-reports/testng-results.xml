@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-30T15:33:06 IST" name="Suite" finished-at="2022-04-30T15:36:30 IST" duration-ms="204631">
+    <groups>
+    </groups>
+    <test started-at="2022-04-30T15:33:06 IST" name="Test" finished-at="2022-04-30T15:36:30 IST" duration-ms="204631">
+      <class name="webapplications.FBLogin">
+        <test-method signature="login()[pri:0, instance:webapplications.FBLogin@1151e434]" started-at="2022-04-30T15:33:06 IST" name="login" finished-at="2022-04-30T15:34:26 IST" duration-ms="79707" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- webapplications.FBLogin -->
+      <class name="webapplications.Datepicker">
+        <test-method signature="datepicker()[pri:0, instance:webapplications.Datepicker@4efac082]" started-at="2022-04-30T15:34:26 IST" name="datepicker" finished-at="2022-04-30T15:34:55 IST" duration-ms="28812" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- datepicker -->
+      </class> <!-- webapplications.Datepicker -->
+      <class name="webapplications.Testscenario1">
+        <test-method signature="setup()[pri:0, instance:webapplications.Testscenario1@6bd61f98]" started-at="2022-04-30T15:34:55 IST" name="setup" finished-at="2022-04-30T15:35:58 IST" duration-ms="63077" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="studentlogin()[pri:0, instance:webapplications.Testscenario1@6bd61f98]" started-at="2022-04-30T15:35:58 IST" name="studentlogin" finished-at="2022-04-30T15:36:30 IST" duration-ms="32186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- studentlogin -->
+      </class> <!-- webapplications.Testscenario1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
